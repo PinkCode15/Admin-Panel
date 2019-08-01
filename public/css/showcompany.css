@@ -1,0 +1,123 @@
+/* .more{
+	margin-top: 8vh;
+}
+.list{
+    width: 107%;
+	display: flex;
+	overflow-y: auto;
+	flex-wrap: wrap;
+	height: 71vh;
+	justify-content: flex-start;
+}
+.list :hover {
+	cursor: pointer;
+	background-color: #1e2f39;
+	color: white; 
+}
+.col{
+	flex-grow: 0;
+	max-width: 200px;
+	height: 30vh;
+	padding-top: 3vh;
+	margin-top: 5vh;
+	background-color: white;
+	border-radius: 5%;
+    margin-right: 8%;
+    min-width: 25%;
+}
+.nameno{
+	margin-right: 1%;
+	float: right;
+}
+.others{
+	margin-top: 23%;
+	display: flex;
+	justify-content: space-around;
+	margin-left: 2%;
+} */
+
+.more{
+	margin-top: 5vh;
+}
+
+.openBody{
+	margin-top: 2%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	justify-content: flex-start;
+
+}
+.openBody :hover {
+	cursor: pointer;
+	background-color: #1e2f39;
+	color: white; 
+}
+
+
+.col{
+	padding-bottom: 1%;
+	margin-right: 8%;
+	/*width: 40%;*/
+	margin-bottom: 60px;
+	flex-basis: 270px;
+	max-width: 50%;
+	background-color: white;
+	border-radius: 5%;
+}
+/*.col :hover{
+	cursor: pointer;
+	border: 2px solid #0a1d28; 
+}*/
+.nameno{
+	margin-right: 8%;
+	
+
+}
+.others{
+	margin-top: 3%;
+	margin-bottom: 6%;
+}
+.btn-edit{
+	float: right !important;
+}
+.list{
+    width: 110%;
+	overflow-y:auto;
+	height: 71vh;
+	font-size: 14px;
+	/* margin-top: 2%; */
+}
+
+.list :hover {
+	cursor: pointer;
+	background-color: #1e2f39;
+	color: white; 
+}
+.none{
+	padding-left: 1% !important;
+	width: 100% !important;
+	height: 20vh !important;
+}
+.list .none:hover{
+	cursor: auto !important;
+	background-color: transparent !important;
+	color: black !important; 
+}
+.list-under{
+	height: 46%;
+	padding-top: 2%;
+	/* width: 60%; */
+	margin-right: 8%;
+	margin-bottom: 3%;
+	background-color: white;
+	border-radius: 5%;
+}
+.hide{
+	height: 25%;
+}
+.nameno{
+	margin-right: 1%;
+	float: right;
+}

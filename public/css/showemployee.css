@@ -1,0 +1,49 @@
+.more{
+	margin-top: 5vh;
+}
+
+.nameno{
+    margin-top: 1%;
+    /* margin-left: 5%; */
+    margin-right: 20%;
+}
+
+.list{
+    width: 110%;
+	overflow-y: auto;
+	height: 71vh;
+	/* margin-top: 2%; */
+}
+
+.list :hover {
+	cursor: pointer;
+	background-color: #1e2f39;
+	color: white; 
+}
+.none{
+	padding-left: 1% !important;
+	width: 100% !important;
+	height: 20vh !important;
+}
+.list .none:hover{
+	cursor: auto !important;
+	background-color: transparent !important;
+	color: black !important; 
+}
+.list-under{
+	height: 50%;
+	/* border: 2px solid black; */
+	padding-top: 1%;
+	margin-right: 8%;
+	margin-bottom: 3%;
+	background-color: white;
+	border-radius: 5%;
+}
+.others{
+	margin-top: 3%;
+	
+	margin-bottom: 6%;
+}
+.btn-edit{
+	float: right !important;
+}

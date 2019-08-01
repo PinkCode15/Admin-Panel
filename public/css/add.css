@@ -1,0 +1,35 @@
+.selectForm{
+	margin-top: 4vh;
+}
+.selectForm select{
+	width:40vw;
+	/* margin-left: 15vw; */
+	/* margin-right: 3vw; */
+	font-size: 15px;
+	text-indent: 5px;
+}
+.selectForm h2{
+	margin-left: 30vw;
+	color: black;
+	font-size: 35px;
+}
+#placeholder{
+    color: gray;
+}
+.companyselectForm{
+	margin-bottom: 5%;
+}
+.details{
+	width: 50vw !important;
+	margin-left: 15vw;
+}
+.details input{
+	color: black !important;
+}
+.addBtn{
+	margin-left: 38vw;
+}
+.fileStyle{
+	margin-left: 2%;
+	
+}
