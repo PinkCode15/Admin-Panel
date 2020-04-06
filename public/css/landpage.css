@@ -1,0 +1,38 @@
+body{
+	background-image: url("../img/company.jpg");;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 100vh;
+}
+.select{
+	font-size: 120% !important;
+	margin-left: 20vw !important;
+}
+.btns{
+	margin-top: 37vh;
+
+}
+.size{
+	size: 5;
+}
+.click{
+	margin-left: 10vw !important;
+}
+.view{
+	font-weight: bold !important;
+	color: black!important;
+	padding:10px 50px !important;
+	font-size: 150% !important;
+}
+.tell{
+	margin-left: 18vw !important;
+}
+.zero{
+	font-size: 18px;
+	height: 10vh;
+}
+@media (max-width: 1008px) {
+  .select {
+    margin-left: 0%;
+  }
+}

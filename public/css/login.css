@@ -1,0 +1,38 @@
+.container-more{
+    margin-top: -5%;
+	width: 100%;
+	display: flex;
+    margin-right: 20%;
+	/*align-content: space-between;*/
+	justify-content: space-between;
+}
+.left-side{
+	width: 60%;
+}
+.right-side{
+	width: 30%;
+	margin-top: 8%;
+	margin-right: 8%;
+}
+#logo{
+	margin-left: 30%;
+}
+.right-side h2,h6{
+	margin-left: 20%;
+}
+#school{
+	width: 55vw;
+	height: 100vh;
+}
+#forgot{
+	float: right;
+}
+#inpcheck{
+	margin-right: 2%;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
